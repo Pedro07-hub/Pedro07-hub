@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedro07-hub&theme=tokyonight"/>
-  <br>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedro07-hub&theme=tokyonight"/>
 </p>
 
