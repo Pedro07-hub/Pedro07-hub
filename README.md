@@ -1,22 +1,58 @@
-## 👋 Olá! Eu sou Pedro Denis
+<h1 align="center">👋 Olá! Eu sou Pedro Denis</h1>
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre)
-- 💻 **Front-end Developer em formação**
-- 🚀 Em constante evolução e construção de projetos práticos
+<p align="center">
+🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> (3º semestre)<br>
+💻 <b>Front-end Developer em formação</b><br>
+🚀 Em constante evolução e construção de projetos práticos
+</p>
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro07-hub&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro07-hub&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedro07-hub&theme=tokyonight"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedro07-hub&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 Sequência de Commits
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedro07-hub&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro07-hub&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+Conquistar uma **oportunidade de estágio ou vaga júnior em TI**, onde eu possa aplicar meus conhecimentos, aprender com o time e crescer profissionalmente.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+📧 <b>Email:</b> denispedro176@gmail.com
+</p>
+
+---
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.
+
+
+
 
 
 
