@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> (3º semestre)<br>
-💻 <b>Front-end Developer em formação</b><br>
+💻 <b>Front-end e Backend Developer em formação</b><br>
 🚀 Em constante evolução e construção de projetos práticos
 </p>
 
